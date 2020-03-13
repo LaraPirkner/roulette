@@ -1,0 +1,160 @@
+body {
+  background-color: #99ccff;
+}
+
+h1 {
+    color: #cc00cc;
+    font-size: 40px ;
+    margin-left: 75vh;
+}
+#bloemkool{
+  background-color: #5900b3;
+  height: 206px;
+  float: right;
+  margin-right: 70px;
+  border-radius: 7px;
+}
+div.kiwi{
+  border-style: solid;
+  border-width: 2px;
+  height: 200px;
+  width: 61px;
+  float: left;
+  border-radius: 7px;
+}
+
+div.banaan {
+  height: 200px;
+  border-style: solid;
+  border-width: 2px;
+  width: 930px;
+  float: left;
+  border-radius: 7px;
+}
+
+.mango{
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+
+}
+.mango li{
+  margin-left: 2px;
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+  border-style: solid;
+  border-width: 2px;
+  color: white;
+  border-radius: 7px;
+  height: 156px;
+  vertical-align: middle;
+  line-height: 158px;
+}
+
+
+.aardbei {
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+
+}
+.aardbei li {
+  margin-left: 2px;
+  display: inline-block;
+  font-size: 20px;
+  padding: 18px;
+  border-style: solid;
+  border-width: 2px;
+  color: white;
+  border-radius: 7px;
+  min-width: 23px;
+}
+
+.blue {
+  background-color: #0000b3;
+}
+.pink {
+  background-color: #b30086;
+}
+
+button{
+  padding: 0px;
+  border-width: 1px;
+  border-radius: 7px;
+}
+.blue:hover{
+  background-color: #008000;
+  transition: background-color .5s;
+}
+.pink:hover{
+  background-color: #b30000;
+  transition: background-color .5s;
+}
+.mango:hover{
+  background-color: #47476b;
+  transition: background-color .5s;
+}
+.appel:hover {
+  background-color: #47476b;
+  transition: background-color .5s;
+}
+
+
+
+#hetwiel {
+  margin-left: 350px;
+  width: 250px;
+  height: 250px;
+  background-color: #cc66ff ;
+  position: absolute;
+  border-style: solid;
+  border-color: #0000ff;
+  border-width: 3px;
+  border-radius: 7px;
+}
+#kaas {
+  font-size: 30px;
+  text-align: center;
+  color: #66ffd9;
+}
+
+#uitkomst{
+  vertical-align: middle;
+  line-height: 100px;
+  text-align: center;
+  color: #66ffd9;
+  font-size: 40px;
+}
+
+hr{
+  height: 3px;
+  background-color: #0000ff;
+  border-color: #0000ff;
+  border-radius: 7px;
+}
+
+#puntjes{
+  width: 145px;
+  height: 50px;
+  border-style: solid;
+  border-color: #0000ff;
+  border-radius: 7px;
+  border-width: 3px;
+  text-align: center;
+  background-color: #cc66ff ;
+  margin: auto;
+}
+.taart{
+  width: 150px;
+  height: 55px;
+  border-style: solid;
+  border-color:#0000ff;
+  border-radius: 7px;
+  border-width: 3px;
+  text-align: center;
+  background-color: #668cff ;
+  font-size: 15px;
+}
